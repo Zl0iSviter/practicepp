@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="176677e0-8a11-428e-8a7e-1683b17c2db2" name="Changes" comment="" />
+    <list default="true" id="176677e0-8a11-428e-8a7e-1683b17c2db2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,35 +27,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Booleans.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Casting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Comments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Data_types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dictionaties.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Get_started.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HOME.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Output_Print.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Syntax.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operatos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strings.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/practice&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.456.executor": "Run",
+    "Python.Booleans.executor": "Run",
+    "Python.Casting.executor": "Run",
+    "Python.Comments.executor": "Run",
+    "Python.Data_types.executor": "Run",
+    "Python.Dictionaties.executor": "Run",
+    "Python.Get_started.executor": "Run",
+    "Python.HOME.executor": "Run",
+    "Python.Lists.executor": "Run",
+    "Python.Output_Print.executor": "Run",
+    "Python.Sets.executor": "Run",
+    "Python.Syntax.executor": "Run",
+    "Python.Variables.executor": "Run",
+    "Python.func_decorators.executor": "Run",
+    "Python.func_generators.executor": "Run",
+    "Python.func_lambda.executor": "Run",
+    "Python.func_recusion.executor": "Run",
+    "Python.inheritance.executor": "Run",
+    "Python.numbers.executor": "Run",
+    "Python.operatos.executor": "Run",
+    "Python.strings.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/practice",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\practice" />
@@ -80,7 +89,12 @@
       <workItem from="1769951283566" duration="9061000" />
       <workItem from="1770012539819" duration="15000" />
       <workItem from="1770121078119" duration="1084000" />
-      <workItem from="1770129550134" duration="1189000" />
+      <workItem from="1770129550134" duration="2502000" />
+      <workItem from="1770181411229" duration="5661000" />
+      <workItem from="1770276402173" duration="594000" />
+      <workItem from="1770804169861" duration="422000" />
+      <workItem from="1771240221929" duration="2316000" />
+      <workItem from="1771337856639" duration="76000" />
     </task>
     <servers />
   </component>
@@ -89,11 +103,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/practice$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1769340994031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/practice$inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1771337911213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac3" />
     <SUITE FILE_PATH="coverage/practice$strings.coverage" NAME="strings Coverage Results" MODIFIED="1769342367002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac1" />
     <SUITE FILE_PATH="coverage/practice$Booleans.coverage" NAME="Booleans Coverage Results" MODIFIED="1769577153511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac2" />
     <SUITE FILE_PATH="coverage/practice$Dictionaties.coverage" NAME="Dictionaties Coverage Results" MODIFIED="1770121524360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac2" />
+    <SUITE FILE_PATH="coverage/practice$func_recusion.coverage" NAME="func_recusion Coverage Results" MODIFIED="1770186803717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac3" />
     <SUITE FILE_PATH="coverage/practice$Lists.coverage" NAME="Lists Coverage Results" MODIFIED="1769952822984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac2" />
+    <SUITE FILE_PATH="coverage/practice$456.coverage" NAME="456 Coverage Results" MODIFIED="1770183600235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac3" />
+    <SUITE FILE_PATH="coverage/practice$func_lambda.coverage" NAME="func_lambda Coverage Results" MODIFIED="1770186602284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac3" />
     <SUITE FILE_PATH="coverage/practice$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1769341660797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/practice$func_generators.coverage" NAME="func_generators Coverage Results" MODIFIED="1770186989701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac3" />
     <SUITE FILE_PATH="coverage/practice$Output_Print.coverage" NAME="Output_Print Coverage Results" MODIFIED="1769342178033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$Data_types.coverage" NAME="Data_types Coverage Results" MODIFIED="1769341435694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$Syntax.coverage" NAME="Syntax Coverage Results" MODIFIED="1768975624593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -103,5 +122,6 @@
     <SUITE FILE_PATH="coverage/practice$Comments.coverage" NAME="Comments Coverage Results" MODIFIED="1768975996707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$Casting.coverage" NAME="Casting Coverage Results" MODIFIED="1769341930039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$Sets.coverage" NAME="Sets Coverage Results" MODIFIED="1769957383262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac2" />
+    <SUITE FILE_PATH="coverage/practice$func_decorators.coverage" NAME="func_decorators Coverage Results" MODIFIED="1770186504029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac3" />
   </component>
 </project>
