@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="176677e0-8a11-428e-8a7e-1683b17c2db2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac8/functions.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prac8/functions.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac8/procedures.sql" beforeDir="false" afterPath="$PROJECT_DIR$/prac8/procedures.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +132,7 @@
       <workItem from="1774598281316" duration="1075000" />
       <workItem from="1774976375714" duration="7601000" />
       <workItem from="1775019955639" duration="2978000" />
-      <workItem from="1776199238513" duration="2742000" />
+      <workItem from="1776199238513" duration="4130000" />
     </task>
     <servers />
   </component>
@@ -162,7 +164,7 @@
     <SUITE FILE_PATH="coverage/practice$regex.coverage" NAME="regex Coverage Results" MODIFIED="1772528270076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac5" />
     <SUITE FILE_PATH="coverage/practice$chat.coverage" NAME="chat Coverage Results" MODIFIED="1772530956212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac5" />
     <SUITE FILE_PATH="coverage/practice$456.coverage" NAME="456 Coverage Results" MODIFIED="1770183600235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac3" />
-    <SUITE FILE_PATH="coverage/practice$phonebook.coverage" NAME="phonebook Coverage Results" MODIFIED="1776201198593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac8" />
+    <SUITE FILE_PATH="coverage/practice$phonebook.coverage" NAME="phonebook Coverage Results" MODIFIED="1776203398764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac8" />
     <SUITE FILE_PATH="coverage/practice$Output_Print.coverage" NAME="Output_Print Coverage Results" MODIFIED="1769342178033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$Data_types.coverage" NAME="Data_types Coverage Results" MODIFIED="1769341435694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/practice$operatos.coverage" NAME="operatos Coverage Results" MODIFIED="1769951679743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac2" />

@@ -1,4 +1,5 @@
 CREATE TABLE IF NOT EXISTS phonebook (
+    id SERIAL PRIMARY KEY,
     name TEXT,
     phone TEXT
 );
@@ -22,6 +23,7 @@ BEGIN
     RETURN QUERY
     SELECT p.name, p.phone
     FROM phonebook p
+    ORDER BY p.id DESC
     LIMIT limit_val OFFSET offset_val;
 END;
 $$ LANGUAGE plpgsql;
