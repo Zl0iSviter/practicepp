@@ -1,0 +1,7 @@
+name,email,phone,birthday,group
+Alice Johnson,alice@gmail.com,+1-555-0101,1990-03-15,Friend
+Bob Smith,bob@company.com,+1-555-0202,1985-07-22,Work
+Bob Smith,,+1-555-0303,,NULL
+Carol White,carol@gmail.com,+1-555-0404,1992-11-01,Family
+David Lee,david@outlook.com,+1-555-0505,,Friend
+Eve Brown,eve@company.com,+1-555-0606,1988-05-30,Work

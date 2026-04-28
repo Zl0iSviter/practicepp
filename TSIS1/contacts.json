@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice@gmail.com",
+    "birthday": "1990-03-15",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "+1-555-0101",
+        "type": "mobile"
+      }
+    ],
+    "created_at": "2026-04-28 18:12:07.848736+05"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob@company.com",
+    "birthday": "1985-07-22",
+    "group": "NULL",
+    "phones": [
+      {
+        "phone": "+1-555-0202",
+        "type": "mobile"
+      },
+      {
+        "phone": "+1-555-0303",
+        "type": "mobile"
+      }
+    ],
+    "created_at": "2026-04-28 18:12:07.848736+05"
+  },
+  {
+    "name": "Carol White",
+    "email": "carol@gmail.com",
+    "birthday": "1992-11-01",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "+1-555-0404",
+        "type": "mobile"
+      }
+    ],
+    "created_at": "2026-04-28 18:12:07.848736+05"
+  },
+  {
+    "name": "David Lee",
+    "email": "david@outlook.com",
+    "birthday": null,
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "+1-555-0505",
+        "type": "mobile"
+      }
+    ],
+    "created_at": "2026-04-28 18:12:07.848736+05"
+  },
+  {
+    "name": "Eve Brown",
+    "email": "eve@company.com",
+    "birthday": "1988-05-30",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "+1-555-0606",
+        "type": "mobile"
+      }
+    ],
+    "created_at": "2026-04-28 18:12:07.848736+05"
+  }
+]
