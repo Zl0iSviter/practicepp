@@ -1,9 +1,3 @@
--- ============================================================
--- functions.sql  –  PhoneBook v2
--- Includes Practice-8 functions + new Practice-9 function.
--- ============================================================
-
--- ─── Practice-8 functions (unchanged) ─────────────────────
 
 CREATE OR REPLACE FUNCTION search_phonebook(pattern TEXT)
 RETURNS TABLE(name TEXT, phone TEXT) AS $$

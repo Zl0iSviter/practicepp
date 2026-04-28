@@ -1,9 +1,4 @@
--- ============================================================
--- schema.sql  –  PhoneBook v2  (Practice 9)
--- Run this once to create / migrate the database objects.
--- ============================================================
 
--- 1. Groups / categories
 CREATE TABLE IF NOT EXISTS groups (
     id   SERIAL PRIMARY KEY,
     name VARCHAR(50) UNIQUE NOT NULL

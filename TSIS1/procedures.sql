@@ -1,9 +1,3 @@
--- ============================================================
--- procedures.sql  –  PhoneBook v2
--- Includes ALL Practice-8 procedures + new Practice-9 objects.
--- ============================================================
-
--- ─── Practice-8 procedures (kept for backward compat) ─────
 
 CREATE OR REPLACE PROCEDURE upsert_user(p_name TEXT, p_phone TEXT)
 LANGUAGE plpgsql AS $$

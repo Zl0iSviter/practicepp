@@ -28,10 +28,6 @@ def make_fonts():
 
 
 def run_game(screen, settings, username, fonts):
-    """
-    main gameplay loop. returns (score, distance, coins, powerup_bonus)
-    when the run ends so the caller can save to leaderboard.
-    """
     diff  = DIFF_SETTINGS.get(settings.get('difficulty', 'normal'), DIFF_SETTINGS['normal'])
     clock = pygame.time.Clock()
 
